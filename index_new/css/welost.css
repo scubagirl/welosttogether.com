@@ -1,0 +1,66 @@
+/*The website HTML content of WeLostTogether.com by Donoho Design Group L.L.C. is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+Permissions beyond the scope of this license may be available at http://welosttogether.com/welost_support.html. */
+
+#maintext a, #maintext a:hover{
+	color:#4477bb; 
+}
+
+#wrapper {
+	margin:40px auto; 
+}
+
+
+#hdr_left {
+	margin-bottom:30px
+}
+
+#hdr_right {
+	margin-top:55px;
+	font-size:1.3em;
+	text-align:left;
+	margin-left:90px;
+	color:#444;
+	font-style:italic;
+}
+
+#buybox { 
+	font-size: 1.5em; 
+	color: #444; 
+	margin-top:20px;
+}
+
+#buybox a, #buybox a:hover{
+	color:#4477bb; 
+}
+
+
+#maintext {
+	color: #44444; 
+	font-size: 1.3em; 
+	line-height:1.4em; 
+}
+
+#footer {
+	margin-top:100px; 
+	border-top:1px solid #555; 
+	color: #ccccc;
+	clear:both; 
+	line-height: 1.6em; 
+	padding-top:5px;
+}
+
+
+img {
+	border:0;
+}
+
+
+h1{
+	margin-bottom:3px;
+}
+
+h2{
+	margin-top:20px;
+	margin-bottom:3px;
+}
+
